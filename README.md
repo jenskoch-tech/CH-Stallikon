@@ -1,13 +1,9 @@
 # Hello, I'm Jens
 <a href="https://www.linkedin.com/in/jenspkoch/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 Dynamic director-level generalist with a broad range of experience across risk management, audit, outsourcing, and technology. Skilled at managing complex projects, leading cross-functional teams, and delivering strategic initiatives. Proven expertise in cyber risk management, secure cloud services, and vendor data security frameworks, coupled with a deep understanding of compliance and regulatory requirements. A Six Sigma Black Belt with strong analytical and problem-solving capabilities, leveraging Agile and Lean methodologies to enhance processes and resilience. Bilingual in English and German, with a history of success in global organizations, driving innovation and transformation across diverse functions.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
 Seeking to develop CyberSecurity knowledge further through certifications with the aim to eventually fully transition into a specialized role in cybersecurity. 
 
 ## Skills
