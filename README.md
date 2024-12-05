@@ -3,12 +3,12 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Dynamic director-level generalist with a broad range of experience across risk management, audit, outsourcing, and technology. Skilled at managing complex projects, leading cross-functional teams, and delivering strategic initiatives. Proven expertise in cyber risk management, secure cloud services, and vendor data security frameworks, coupled with a deep understanding of compliance and regulatory requirements. A Six Sigma Black Belt with strong analytical and problem-solving capabilities, leveraging Agile and Lean methodologies to enhance processes and resilience. Bilingual in English and German, with a history of success in global organizations, driving innovation and transformation across diverse functions.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Seeking to develop CyberSecurity knowledge further through certifications with the aim to eventually fully transition into a specialized role in cybersecurity. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
