@@ -1,10 +1,14 @@
 # Hello, I'm Jens
 <a href="https://www.linkedin.com/in/jenspkoch/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Dynamic director-level generalist with a broad range of experience across risk management, audit, outsourcing, and technology. Skilled at managing complex projects, leading cross-functional teams, and delivering strategic initiatives. Proven expertise in cyber risk management, secure cloud services, and vendor data security frameworks, coupled with a deep understanding of compliance and regulatory requirements. A Six Sigma Black Belt with strong analytical and problem-solving capabilities, leveraging Agile and Lean methodologies to enhance processes and resilience. Bilingual in English and German, with a history of success in global organizations, driving innovation and transformation across diverse functions.
+As an experienced and versatile director-level financial services professional, I have acquired a wide range of expertise across strategic change management, auditing, banking operations, and third-party risk management. I am now focused on transitioning into a dedicated cybersecurity role.
+My strengths include project and change management, people management, stakeholder engagement, optimizing operational processes, and conducting audits and risk assessments to safeguard organizational assets.
+With professional experience spanning three continents and multiple countries, I bring a unique global perspective, a deep understanding of diverse working environments, cultural nuances, and cross-border collaboration. 
+Bilingual fluency in English and German further enhances my ability to navigate complex, multinational environments effectively.
 
 ## Objective
-Seeking to develop CyberSecurity knowledge further through certifications with the aim to eventually fully transition into a specialized role in cybersecurity. 
+My ultimate goal is to fully transition into a specialized cybersecurity role, contributing to the resilience of organizations by leveraging my leadership experience and broad expertise. To enhance my technical capabilities, I am currently completing Google’s Cybersecurity Professional Certificate.
+By aligning my values of integrity, compliance, and data protection with the security objectives of forward-thinking organizations, I aim to make a meaningful impact in safeguarding critical systems and data.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
