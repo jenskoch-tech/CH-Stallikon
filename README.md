@@ -13,9 +13,17 @@ By aligning my values of integrity, compliance, and data protection with the sec
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Conducting a security audit                   | <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">Google Cybersecurity Professional Certificate</a>|       
+| Skill                                                                | Associated Project         |
+|----------------------------------------------------------------------|----------------------------|
+| Conducting a security audit                                          | <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">Google Cybersecurity Professional Certificate</a>|       
+| Analyzing network structure and security                             | <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">Google Cybersecurity Professional Certificate</a>|      
+| Using Linux commands to manage file permissions                      | <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">Google Cybersecurity Professional Certificate</a>|      
+| Applying filters to SQL queries                                      | <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">Google Cybersecurity Professional Certificate</a>|      
+| Identifying vulnerabilities for a small business                     | <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">Google Cybersecurity Professional Certificate</a>|      
+| Documenting incidents with an incident handlers journal              | <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">Google Cybersecurity Professional Certificate</a>|      
+| Importing and parsing a text file in a security-related scenario     | <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">Google Cybersecurity Professional Certificate</a>|      
+  
+TTTTTT
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
