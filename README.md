@@ -22,6 +22,9 @@ By aligning my values of integrity, compliance, and data protection with the sec
 | Identifying vulnerabilities for a small business                     | <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">Google Cybersecurity Professional Certificate</a>|      
 | Documenting incidents with an incident handlers journal              | <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">Google Cybersecurity Professional Certificate</a>|      
 | Importing and parsing a text file in a security-related scenario     | <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">Google Cybersecurity Professional Certificate</a>|      
+| Suricata: create and run custom rules, monitor traffic, review logs  | <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">Google Cybersecurity Professional Certificate</a>|      
+
+
   
 TTTTTT
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
