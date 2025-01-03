@@ -87,7 +87,7 @@ TTTTTT
 <div>
 <img src="https://img.shields.io/badge/-Agile%20Scrum%20Master%20I-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
 <img src="https://img.shields.io/badge/-Agile%20Project%20Management-0077C5?&style=for-the-badge&logo=Coursera&logoColor=white" />
-  
+</div>
 ## Projects
 - Detection Lab
 - SOC Automation Project
