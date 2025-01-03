@@ -64,7 +64,7 @@ TTTTTT
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 ### Google
 <div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cybersecurity%20Professional%20Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div> 
 
 ### CompTIA
