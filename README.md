@@ -91,5 +91,5 @@ TTTTTT
 </div>
 
 ## Projects
-- Python: creating alogorithm 
+- Python: creating an alogorithm as part of Google's CyberSecurity Profressional Certificate
 - SOC Automation Project
