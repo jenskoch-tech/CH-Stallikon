@@ -25,7 +25,7 @@ By aligning my values of integrity, compliance, and data protection with the sec
 | Suricata: create and run custom rules, monitor traffic, review logs  | <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">Google Cybersecurity Professional Certificate</a>|      
 | Splunk: data ingestion, basic search, id log in failures             | <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">Google Cybersecurity Professional Certificate</a>|   
 | Google Chronicle: assess threat intel, evaluate events               | <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">Google Cybersecurity Professional Certificate</a>|  
-  
+| Python: creating an algorithm                                        |  |    
 TTTTTT
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
@@ -91,5 +91,5 @@ TTTTTT
 </div>
 
 ## Projects
-- Detection Lab
+- Python: creating alogorithm 
 - SOC Automation Project
