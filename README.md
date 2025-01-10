@@ -64,7 +64,7 @@ TTTTTT
 ### Google
 <div>
 <img src="https://img.shields.io/badge/-Cybersecurity%20Professional%20Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="67f07916-c888-416c-8584-a4b0f145f162" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+ 
 </div> 
 
 ### CompTIA
