@@ -87,7 +87,7 @@ TTTTTT
 
 ### Qualys Vulnerability Management
 <div>
-<img src="https://img.shields.io/badge/-Vulnerability%20Management%20Foundation%20Course-EB0028?&style=for-the-b
+<img src="https://img.shields.io/badge/-Vulnerability%20Management%20Foundation%20Course-EB0028?&style=for-the-badge&logo=Qualys&logoColor=white" />
 </div>
 
 ### Agile
