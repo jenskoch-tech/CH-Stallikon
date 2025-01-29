@@ -67,10 +67,9 @@ TTTTTT
 ### Try Hack Me 
 <div>
 <img src="https://img.shields.io/badge/-Cybersecurity%20Professional%20Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
-[![TryHackMe Badge](https://tryhackme.com/api/badges/3977075.png)](https://tryhackme.com/p/3977075)
-
 
 </div>
+[![TryHackMe Badge](https://tryhackme.com/api/badges/3977075.png)](https://tryhackme.com/p/3977075)
 
 
 ### CompTIA
