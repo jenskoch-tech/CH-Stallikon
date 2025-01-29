@@ -35,6 +35,7 @@ TTTTTT
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3977075" style='border:none;'></iframe>
 
 ### Network
 <div>
@@ -69,8 +70,6 @@ TTTTTT
 <img src="https://img.shields.io/badge/-Cybersecurity%20Professional%20Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
 
 </div>
-[![TryHackMe Badge](https://tryhackme.com/api/badges/3977075.png)](https://tryhackme.com/p/3977075)
-
 
 ### CompTIA
 <div>
