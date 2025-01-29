@@ -35,7 +35,7 @@ TTTTTT
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-<img src="https://tryhackme-badges.s3.amazonaws.com/3977075.png" alt="TryHackMe Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3977075" style='border:none;'></iframe>
 
 
 ### Network
