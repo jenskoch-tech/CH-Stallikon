@@ -71,7 +71,9 @@ TTTTTT
 
 ### Try Hack Me 
 <div>
-<img src="https://img.shields.io/badge/-Cybersecurity%20Professional%20Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
+<a href="https://github.com/CH-Stallikon/CH-Stallikon/blob/c28ef4dd0a93abdf361863db06c102c838fcca99/Try%20Hack%20Me%20%20Pre%20Security%20Certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Pre%20Security%20Certificate-red?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+</a>
 
 </div>
 
