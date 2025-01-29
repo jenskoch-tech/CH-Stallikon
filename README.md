@@ -64,11 +64,6 @@ TTTTTT
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 ### Google
 <div>
-<img src="https://img.shields.io/badge/-Cybersecurity%20Professional%20Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-    
-</div> 
-### Google
-<div>
     <a href="https://github.com/CH-Stallikon/CH-Stallikon/blob/b83d849f665336a08bde37f61fb617e14b6bd960/CyberSec%20Certificate%20_%20Credly.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Cybersecurity%20Professional%20Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
     </a>
