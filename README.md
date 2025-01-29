@@ -35,9 +35,6 @@ TTTTTT
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[![TryHackMe](https://tryhackme.com/api/badges/3977075.png)](https://tryhackme.com/p/3977075)
-
-
 
 ### Network
 <div>
