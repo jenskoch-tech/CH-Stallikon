@@ -95,7 +95,7 @@ TTTTTT
 <div>
 <a href="https://github.com/CH-Stallikon/CH-Stallikon/blob/9709d92a98db74767c1806e920a69e2320a899a0/Qualys_Foundation_Koch_Jens.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Vulnerability%20Management%20Foundation%20Course-EB0028?&style=for-the-badge&logo=Qualys&logoColor=white" />
-</
+</a>
 
 <img src="https://img.shields.io/badge/-Vulnerability%20Management%20Detection%20and%20Response%20(VMDR)-EB0028?&style=for-the-badge&logo=Qualys&logoColor=white" />
 
