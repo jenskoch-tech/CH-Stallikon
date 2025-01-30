@@ -71,6 +71,9 @@ TTTTTT
 <a href="https://github.com/CH-Stallikon/CH-Stallikon/blob/c28ef4dd0a93abdf361863db06c102c838fcca99/Try%20Hack%20Me%20%20Pre%20Security%20Certificate.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Pre%20Security%20Certificate-red?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </a>
+<a href="https://github.com/CH-Stallikon/CH-Stallikon/blob/b1b06df19eddfb125d28be741482e1fde83ab3b8/Try%20Hack%20Me%20Intro%20to%20Cyber%20Security.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Intro%20to%20Cyber%20Security%20Certificate-red?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+</a>
 
 </div>
 
