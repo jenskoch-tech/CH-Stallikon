@@ -79,7 +79,10 @@ TTTTTT
 
 ### CompTIA
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://github.com/CH-Stallikon/CH-Stallikon/blob/7448a753f76f1376c0906eb0cb878d2e9dfdd33c/CompTIA_Security%2B_Certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
 
  ### Amazon 
  <div> 
