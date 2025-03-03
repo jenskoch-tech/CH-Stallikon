@@ -67,7 +67,7 @@ TTTTTT
 </div>
 
 ### Try Hack Me 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3977075" style='border:none;'></iframe>
+<script src="https://tryhackme.com/badge/3977075"></script>
 <div>
 <a href="https://github.com/CH-Stallikon/CH-Stallikon/blob/c28ef4dd0a93abdf361863db06c102c838fcca99/Try%20Hack%20Me%20%20Pre%20Security%20Certificate.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Pre%20Security%20Certificate-red?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
