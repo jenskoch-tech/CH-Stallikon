@@ -1,7 +1,7 @@
 # Hello, I'm Jens
 <a href="https://www.linkedin.com/in/jenspkoch/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-As an experienced and versatile director-level financial services professional, I have acquired a wide range of expertise across strategic change management, auditing, banking operations, and third-party risk management. I am now focused on transitioning into a dedicated cybersecurity role.
+As an experienced and versatile director-level financial services professional, I have acquired a wide range of expertise across strategic change management, auditing, banking operations, and third-party risk management. I am now focused on transitioning into a dedicated Information/ Cyber Security role.
 My strengths include project and change management, people management, stakeholder engagement, optimizing operational processes, and conducting audits and risk assessments to safeguard organizational assets.
 With professional experience spanning three continents and multiple countries, I bring a unique global perspective, a deep understanding of diverse working environments, cultural nuances, and cross-border collaboration. 
 Bilingual fluency in English and German further enhances my ability to navigate complex, multinational environments effectively.
