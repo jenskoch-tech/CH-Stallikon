@@ -113,6 +113,7 @@ TTTTTT
 </div>
 
 ## Projects
-- Python: creating an alogorithm as part of Google's CyberSecurity Profressional Certificate
-- Python: creating a web scraper 
+- Python: creating an algorithm as part of Google's CyberSecurity Profressional Certificate
+- Python: creating a web scraper
+- Building a home lab: converted and upgraded (SSD/ Memory) and old laptop to run Linux Ubuntu with a VM running Linux Kali 
 - SOC Automation Project
