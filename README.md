@@ -114,4 +114,5 @@ TTTTTT
 
 ## Projects
 - Python: creating an alogorithm as part of Google's CyberSecurity Profressional Certificate
+- Python: creating a web scraper 
 - SOC Automation Project
